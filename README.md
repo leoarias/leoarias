@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Acosta Manu</h1>
-<h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica">System Technique </a> at <a href="https://www.ungs.edu.ar/">at UNGS (Universidad Nacional General Sarmiento).</a> . Nowadays I'm also doing course of MySQL in web. </i></h3>
+<h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="">System Technique </a> at <a href="https://www.UnLaM/">at UNGS (Universidad Nacional de La Matamza.).</a> . Nowadays I'm also doing course of MySQL in web. </i></h3>
 <!--Contador de visitas-->
 <p></p>
 <p></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=manuacostaok&label=Profile%20views&color=00b3ff&style=plastic" alt="manuacostaok" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=leoarias&label=Profile%20views&color=00b3ff&style=plastic" alt="leoarias" /> </p>
 <hr></hr>
 
-🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).
+🚀 My last project is [leoarias - YoProgramo #](https://github.com/leoarias).
 
 🌱 I’m currently learning **MySQL, HTML, CSS, JavaScript, anda Database**.
 
 💡 I'm very interesting in **Web development**.
 
-💼 I'm working on my portfolio. Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
+💼 I'm working on my portfolio. Meanwhile you can see all my projects of the college on [GitHub](https://github.com/leoarias?tab=repositories).
 
-📧 How to reach me **manuacostaok@gmail.com**
+📧 How to reach me **leo.ariass1006@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
