@@ -14,7 +14,7 @@
 
 💼 I'm working on my portfolio. Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
 
-📧 How to reach me **manuacostaok@gmail.com**
+📧 How to reach me **leo.ariass1006@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
