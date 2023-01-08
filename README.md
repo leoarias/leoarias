@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Acosta Manu</h1>
+<h1 align="center">Hi 👋, I'm Arias Leonardo</h1>
 <h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica">System Technique </a> at <a href="https://www.ungs.edu.ar/">at UNGS (Universidad Nacional General Sarmiento).</a> . Nowadays I'm also doing course of MySQL in web. </i></h3>
 <!--Contador de visitas-->
 <p></p>
