@@ -6,7 +6,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=manuacostaok&label=Profile%20views&color=00b3ff&style=plastic" alt="manuacostaok" /> </p>
 <hr></hr>
 
-🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).
+🚀 My last project is [leoarias  #](https://github.com/leoarias).
 
 🌱 I’m currently learning **MySQL, HTML, CSS, JavaScript, anda Database**.
 
