@@ -1,11 +1,11 @@
 ### Hi there 👋
-Hi 👋, I'm Acosta Manu
-I’m from Buenos Aires, Argentina and I'm studying System Technique at UNGS (Universidad Nacional General Sarmiento). 
+Hi 👋, I'm Arias Leonardo 
+I’m from Buenos Aires, Argentina and I'm studying Bachelor of Business Administration  at UNLAM (Universidad Nacional De La Matanza). 
 Nowadays I'm also doing course of MySQL in web.
 <!--Contador de visitas-->
 <p></p>
 <p></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=manuacostaok&label=Profile%20views&color=00b3ff&style=plastic" alt="manuacostaok" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=leoarias&label=Profile%20views&color=00b3ff&style=plastic" alt="leoarias" /> </p>
 <hr></hr>
 
 🚀 My last project is YoProgramo arg - shop.
