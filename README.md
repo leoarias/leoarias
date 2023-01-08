@@ -26,12 +26,6 @@
 <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuacostaok&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Manu Acosta GitHub stats](https://github-readme-stats.vercel.app/api?username=manuacostaok&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuacostaok&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sofifregona&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
-<h3 align="center">Connect with me:</h3>
-<p></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/manuel-acosta-a1a238214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-sofia-fregona" height="30" width="40" /></a>
 <a href="https://instagram.com/acosta__manu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofifregona" height="30" width="40" /></a>
