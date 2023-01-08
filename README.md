@@ -20,7 +20,8 @@ Nowadays I'm also doing course of MySQL in web.
 <a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/></a>
 </p>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofifregona&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofifregona&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Manu Acosta GitHub stats](https://github-readme-stats.vercel.app/api?username=sofifregona&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sofifregona&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sofifregona&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
