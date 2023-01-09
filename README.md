@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Acosta Manu</h1>
-<h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="https://www.ungs.edu.ar/carrera/tecnicatura-universitaria-en-informatica">System Technique </a> at <a href="https://www.ungs.edu.ar/">at UNGS (Universidad Nacional General Sarmiento).</a> . Nowadays I'm also doing course of MySQL in web. </i></h3>
+<h1 align="center">Hi 👋, I'm Arias Leonardo</h1>
+<h3 align="center"><i>I’m from Buenos Aires, Argentina and I'm studying  <a href="https://economicas.unlam.edu.ar/index.php?seccion=3&idArticulo=14">Bachelor of Administration </a> at <a href="https://www.unlam.edu.ar/">at UnLAM (Universidad Nacional De La Matanza).</a> . Nowadays I'm also doing course of MySQL in web. </i></h3>
 
 
 
 <!--Contador de visitas-->
 <p></p>
 <p></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manuacostaok&label=Profile%20views&color=00b3ff&style=plastic" alt="manuacostaok" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leoarias&label=Profile%20views&color=00b3ff&style=plastic" alt="leoarias" /> </p>
 <hr></hr>
 
 <div align="center">
 
-🚀 My last project is [ManuAcosta - YoProgramo #](https://github.com/manuacostaok/FrontEnd-YoProgramo).
+🚀 My last project is [leoarias -  #](https://github.com/leoarias/porfolio-Leo-Aias-/tree/main/portfolio-LeoArias).
 
 🌱 I’m currently learning **MySQL, HTML, CSS, JavaScript, anda Database**.
 
@@ -19,7 +19,7 @@
 
 💼 I'm working on my portfolio. <br> Meanwhile you can see all my projects of the college on [GitHub](https://github.com/manuacostaok?tab=repositories).
 
-📧 How to reach me **manuacostaok@gmail.com**
+📧 How to reach me **leo.ariass1006@gmail.com**
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -33,11 +33,11 @@
 </p>
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuacostaok&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoarias&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Manu Acosta GitHub stats](https://github-readme-stats.vercel.app/api?username=manuacostaok&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Leo Arias GitHub stats](https://github-readme-stats.vercel.app/api?username=leoarias&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuacostaok&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leoarias&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 
 
